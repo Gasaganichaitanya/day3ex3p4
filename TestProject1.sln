@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{E387F89C-137C-46F4-965B-51857E957639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignInLib", "SignInLib\SignInLib.csproj", "{1F477C08-F715-4A91-AEEE-D2748166BBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E387F89C-137C-46F4-965B-51857E957639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E387F89C-137C-46F4-965B-51857E957639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E387F89C-137C-46F4-965B-51857E957639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E387F89C-137C-46F4-965B-51857E957639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F477C08-F715-4A91-AEEE-D2748166BBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F477C08-F715-4A91-AEEE-D2748166BBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F477C08-F715-4A91-AEEE-D2748166BBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F477C08-F715-4A91-AEEE-D2748166BBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BC45ABD-18BE-4B33-8507-417F0B801D3E}
+	EndGlobalSection
+EndGlobal

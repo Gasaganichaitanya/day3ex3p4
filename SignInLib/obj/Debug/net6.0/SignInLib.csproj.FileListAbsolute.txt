@@ -1,0 +1,11 @@
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\bin\Debug\net6.0\SignInLib.deps.json
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\bin\Debug\net6.0\SignInLib.dll
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\bin\Debug\net6.0\SignInLib.pdb
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\obj\Debug\net6.0\SignInLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\obj\Debug\net6.0\SignInLib.AssemblyInfoInputs.cache
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\obj\Debug\net6.0\SignInLib.AssemblyInfo.cs
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\obj\Debug\net6.0\SignInLib.csproj.CoreCompileInputs.cache
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\obj\Debug\net6.0\SignInLib.dll
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\obj\Debug\net6.0\refint\SignInLib.dll
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\obj\Debug\net6.0\SignInLib.pdb
+D:\mphasis\Phase4\Day3\EX2 MSTest\TestProject1\SignInLib\obj\Debug\net6.0\ref\SignInLib.dll
